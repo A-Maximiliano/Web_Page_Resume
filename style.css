@@ -25,7 +25,8 @@
     --bs-white: #fff;
     --bs-gray: #6c757d;
     --bs-gray-dark: #343a40;
-    --bs-primary: #bd5d38;
+    --bs-primary: #405795;
+    /* #bd5d38; #405795 */
     --bs-secondary: #6c757d;
     --bs-success: #198754;
     --bs-info: #0dcaf0;
@@ -241,7 +242,7 @@ sup {
 }
 
 a {
-    color: #bd5d38;
+    color: #bd5d38; 
     text-decoration: underline;
 }
 
@@ -8322,7 +8323,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-    background-color: #bd5d38 !important;
+    background-color: #405795 !important; /*#bd5d38*/
 }
 
 .bg-secondary {
